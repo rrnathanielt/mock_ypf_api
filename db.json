@@ -1,14 +1,144 @@
 {
-  "friends": [
+  "rows": [
     {
       "id": 1,
-      "name": "Theresa Webb",
-      "image": "hello",
-      "score": "4.9",
-      "rate": "15",
-      "likes": "Concerts, Phone Conversations, Walks"
+      "name": "Friends Near you (Tampa, FL)",
+      "friends": [
+        {
+          "id": 1,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_1.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        }, 
+        {
+          "id": 2,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_2.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        },
+        {
+          "id": 3,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_3.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        },
+        {
+          "id": 4,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_1.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        },
+        {
+          "id": 5,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_2.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Friends to go see a movie with",
+      "friends": [
+        {
+          "id": 1,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_1.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        }, 
+        {
+          "id": 2,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_2.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        },
+        {
+          "id": 3,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_3.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        },
+        {
+          "id": 4,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_1.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        },
+        {
+          "id": 5,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_2.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Friends for long conversations on the phone",
+      "friends": [
+        {
+          "id": 1,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_1.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        }, 
+        {
+          "id": 2,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_2.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        },
+        {
+          "id": 3,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_3.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        },
+        {
+          "id": 4,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_1.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        },
+        {
+          "id": 5,
+          "name": "Theresa Webb",
+          "image": "https://raw.githubusercontent.com/rrnathanielt/mock_ypf_api/main/img_friend_2.png",
+          "score": "4.9",
+          "rate": "15",
+          "likes": "Concerts, Phone Conversations, Walks"
+        }
+      ]
     }
-  ],
+  ].
   "profile": {
     "username": "username", 
     "password": "password"
